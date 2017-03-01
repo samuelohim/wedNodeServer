@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/samuelohim/wedNodeServer/issues"
   },
-  "homepage": "https://github.com/samuelohim/wedNodeServer#readme"
+  "homepage": "https://github.com/samuelohim/wedNodeServer#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
